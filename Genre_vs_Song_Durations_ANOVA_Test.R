@@ -1,4 +1,4 @@
-d = read.csv("/Users/pk/Downloads/MillionSongsFinal.csv") # read in the Million Songs dataset
+d = read.csv("/MillionSongsFinal.csv") # read in the Million Songs dataset
 # Exploratory Analysis
 head(d)
 d
